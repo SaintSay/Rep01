@@ -1,1 +1,1 @@
-The script for parsing the 1C registration journal and parsing with a dictionary for further sending to the Logstash.
+The script for parsing the 1C registration journal with a 1С dictionary for further sending to the Logstash.
